@@ -1,0 +1,15 @@
+{
+  "name": "fetch-mock-adapter",
+  "version": "0.1.0",
+  "description": "Allows extending fetch to add custom mock responses in the place of network requests.",
+  "main": "index.js",
+  "scripts": {`
+  },
+  "keywords": [
+    "fetch",
+    "mock",
+    "javascript"
+  ],
+  "author": "stevepapa",
+  "license": "MIT"
+}
